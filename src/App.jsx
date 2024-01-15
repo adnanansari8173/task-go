@@ -246,6 +246,7 @@ const App = () => {
           <a
             href="https://github.com/adnanansari8173/task-go"
             target="_blank"
+            rel="noreferrer"
             className="flex w-6 text-white/40 hover:text-primary"
           >
             <svg
@@ -262,6 +263,7 @@ const App = () => {
             href="https://www.linkedin.com/in/itsadnan/"
             className="flex w-6 text-white/40 hover:text-primary"
             target="_blank"
+            rel="noreferrer"
           >
             <svg
               role="img"
